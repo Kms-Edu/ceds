@@ -58,4 +58,12 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="..\..\..\..\..\Desktop\mba\inss799\ceds\ceds-nds-v6.sql">
+      <Link>ceds-nds-v6.sql</Link>
+    </Build>
+    <Build Include="..\..\..\..\..\Desktop\mba\inss799\ceds\Populate-CEDS-V6-Ref-Tables.sql">
+      <Link>Populate-CEDS-V6-Ref-Tables.sql</Link>
+    </Build>
+  </ItemGroup>
 </Project>
